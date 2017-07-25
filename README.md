@@ -1,4 +1,4 @@
-#Zatlin for Web
+# Zatlin for Web
 
 [Zatlin](https://github.com/Ziphil/Zatlin) のTypeScript移植版と、それを使ったWebアプリです。
 
