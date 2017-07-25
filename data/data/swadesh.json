@@ -1,0 +1,833 @@
+ {
+  "name" : "スワデシュリスト",
+  "data" : [
+    {
+      "equivalents" : ["私"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["君", "貴方"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["彼"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["私達"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["君等"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["彼等"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["此れ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["彼"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["此処"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["其処"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["誰"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["何"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["何処"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["何時"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["如何"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["ない"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["全て"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["多く"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["少し"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["多い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["他"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["一"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["二"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["三"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["四"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["五"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["大きい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["長い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["広い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["厚い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["重い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["小さい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["短い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["狭い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["細い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["女"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["男"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["人"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["子"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["妻"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["夫"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["母"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["父"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["生き物"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["魚"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["鳥"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["犬"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["虱"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["蛇"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["虫"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["木"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["森"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["枝"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["実", "果物"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["種"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["葉"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["根"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["木皮"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["花"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["草"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["縄"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["皮"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["肉"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["血"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["骨"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["脂"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["卵"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["角"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["尻尾"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["羽"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["髪"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["頭"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["耳"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["目"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["鼻"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["口"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["歯"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["舌"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["爪"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["足"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["脚"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["膝"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["手"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["翼"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["腹"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["腸"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["首"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["背"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["胸"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["心"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["肝"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["飲む"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["食べる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["噛む"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["吸う"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["吐く"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["吐く"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["吹く"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["息する"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["笑う"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["見る"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["聞く"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["知る"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["思う"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["嗅ぐ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["恐れる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["寝る"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["生きる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["死ぬ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["殺す"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["戦う"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["狩る"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["打つ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["切る"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["割る"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["刺す"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["掻く"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["掘る"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["泳ぐ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["飛ぶ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["歩く"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["来る"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["寝る", "横たわる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["座る"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["立つ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["回る"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["落ちる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["与える", "上げる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["持つ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["絞る"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["擦る"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["洗う"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["拭く"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["引く"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["押す"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["投げる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["結ぶ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["縫う"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["数える"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["言う"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["歌う"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["遊ぶ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["浮く"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["流れる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["凍る"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["膨らむ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["日"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["月"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["星"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["水"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["雨"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["川"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["湖"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["海"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["塩"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["石"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["砂"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["塵"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["土"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["雲"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["霧"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["空"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["風"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["雪"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["氷"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["煙"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["火"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["灰"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["燃える"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["道"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["山"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["赤"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["緑"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["黄色"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["白"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["黒"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["夜"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["日"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["年"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["暖かい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["寒い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["満ちた"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["新しい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["古い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["良い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["悪い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["腐った"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["汚い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["真っ直ぐ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["丸い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["鋭い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["鈍い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["滑らか"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["濡れた"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["乾いた"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["正しい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["近い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["遠い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["右"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["左"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["～で (in)"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["～で (at)"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["～と一緒に"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["と", "かつ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["もし～"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["なぜなら～"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["名前"],
+      "content" : null
+    }
+  ]
+}

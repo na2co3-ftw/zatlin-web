@@ -1,0 +1,501 @@
+{
+  "name" : "トキポナ",
+  "data" : [
+    {
+      "equivalents" : ["あ", "あー", "あははは"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["可愛くない動物", "爬虫類", "両生類"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["または"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["無", "否定", "零", "～のない", "～ではない", "無～", "非～", "いいえ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["集める", "狩る"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["森羅万象", "全ての", "全体の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["差", "変える", "正す", "異なる", "あるいは"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["底", "下にある物", "低い", "底の", "下の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["待つ", "保つ", "残る", "不変の", "残りの", "固着性の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["何か", "事物", "対象化する", "何かの"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["悪", "陰性", "悪くする", "悪くなる", "悪い", "否定的な", "間違いの", "不吉な", "複雑な"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["道具", "装置", "特定の目的で使用される物"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["内", "中心", "腹", "胃", "内に", "内の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["口", "口頭の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["戦い", "競争", "不調和", "攻撃", "攻撃する", "競争する"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["性交", "性", "性交する", "好色な", "性的な"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["～を"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["市場", "取引場所"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["かつ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["ねえ", "おい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["目"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["彼", "彼女", "それ", "彼の", "彼女の", "それの"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["開ける", "起動する", "点ける"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["愛", "愛す", "愛する"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["植物"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["出来事", "機会", "事件", "引き起こす", "呼ぶ", "来る", "着く", "起こる", "始まる", "来ている", "未来の", "～になる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["水生動物"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["音", "雑音", "声", "鳴らす", "演奏する", "音が出る"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["切る"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["野菜", "果物", "きのこ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["固い物", "岩石", "鉱物", "固い", "固体の", "石金属製の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["やはり", "さらに", "本当に", "～も", "～にも", "もう", "すでに"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["聞く", "聴力の", "聞こえる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["グループ", "会社", "公衆の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["色", "塗料", "着色する", "カラフルな"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["使う", "～と共に", "～を用いて"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["可能性", "有能", "可能にする", "許容する", "出来る", "許される", "可能性を持つ", "～できる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["半固体の物", "ゲル", "ジェル", "砂状の物"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["空気", "風", "匂い", "精神", "空気の様な", "気体の", "絶妙な"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["同じの", "似た", "～のように見える"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["円", "輪", "球", "循環", "回る", "丸い", "循環の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["絵", "イメージ", "描く", "書く"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["あなた", "あなたの"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["体", "体調"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["新しくする", "新しい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["垂直面のある物", "正面", "表", "前部", "壁", "胸", "胴", "顔"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["太陽", "光"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["水平面のある物", "台", "机", "椅子"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["大きさ", "伸ばす", "拡大する", "大きい", "高い", "長い", "大人の", "重要な"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["甘い物", "甘くする", "甘い", "可愛い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["何", "どれ", "誰", "どこ", "いつ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["火", "熱", "温める", "調理する", "暖かい", "調理済みの"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["外側", "表面", "皮"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["高さ", "上にある物", "高い", "信心深い", "礼儀正しい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["知識", "理解", "知る", "分かる", "学ぶ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["可愛い動物", "哺乳類"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["孤独な", "唯一の", "～だけ", "だが", "しかし"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["運動", "運送", "行く", "動かす", "可動の", "感動させる", "～の方へ", "～のために", "～にとって"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["起源", "原因", "～から", "～によって", "～のゆえに", "～以来ずっと"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["2", "ペア", "二倍する", "二倍ある", "二分する", "2の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["液体", "水をかける", "洗う"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["時間", "期間", "瞬間"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["言語", "会話", "話す", "話の", "やあ", "こんにちは"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["家", "建物", "都市の", "家の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["狂わせる", "狂った", "酔っ払った"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["道", "方法", "習慣", "主義"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["余分な物", "装飾", "刺激", "塩", "余分な物を付ける", "装飾する", "刺激する", "不要な", "派手な", "刺激の強い", "からい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["番号", "第～番"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["この", "その"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["単語", "名前"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["出っ張り", "山", "鼻", "ボタン"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["足"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["失敗", "事故", "破壊", "損害", "壊す", "壊れる", "くそ", "畜生"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["付与", "交換", "与える", "置く"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["活動", "仕事", "作る", "働く", "活動的な", "労働の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["棒状の物"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["飯", "パン", "主食"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["～の", "～に属する"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["終わり", "先端", "終える", "閉じる", "終えた"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["虫"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["黒", "影", "暗くする", "黒い", "暗い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["気持ち", "感情", "心臓", "感じる", "考える"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["側面", "腰", "隣", "隣の", "～に伴う", "～と一緒に"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["入れ物", "容器"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["簡単", "改善する", "修理する", "良い", "簡単な"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["土壌", "国", "地域", "地方"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["金", "富"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["親", "親の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["私", "私の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["男", "夫", "男らしい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["動物の鳴き声", "ニャア", "ワン"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["遊び", "芸術", "ゲーム", "遊ぶ", "楽しませる", "楽しい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["量", "多くする", "多い", "いろいろな", "豊富な"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["月"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["女", "妻", "女らしい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["食事", "食べ物", "飲食する", "摂取する", "消費する"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["死", "殺す", "死ぬ", "致命的な", "死んだ", "枯れた"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["後ろ", "背中", "後ろの"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["怪物", "恐怖", "恐がらせる", "怖れる", "怖い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["泥", "汚れ", "ゴミ", "汚す", "穢す", "汚い", "穢れた", "下品な", "おえっ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["人", "人々", "誰か", "擬人化する", "人間らしくする", "個別化する", "人の", "人々の", "個人の", "誰かの"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["黄色い", "黄色の", "萌黄色の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["所持", "持つ", "含む"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["おそらく～", "もし～なら～"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["青い", "青色の", "青緑色の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["寝る", "眠っている"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["頭", "心", "率いる", "管理する", "主な", "先導する"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["～は", "～が"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["薄っぺらい物", "紙", "本", "ページ", "インターネット上のサイト"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["少なくする", "短くする", "小さくする", "少ない", "小さい", "若い", "脆い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["ひも状の物"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["手", "腕", "5の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["見る", "読む", "視覚の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["穴状の物", "出入口", "ドア", "窓"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["寒さ", "冷たさ", "冷やす", "凍らす", "寒い", "冷たい", "未調理の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["衣服", "布"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["赤い", "赤色の"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["存在する", "真実である", "目覚めている", "～で(場所)", "～に"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["鳥"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["白", "明るさ", "白い", "明るい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["力", "強さ", "強くする", "強い", "激しい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["1", "単位", "要素", "かけら", "まとめる", "1つの"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["願望", "必要性", "意志", "欲しい", "願う", "乞う", "しなければならない", "必要な", "～したい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["不在", "外す", "遠くの"],
+      "content" : null
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "name": "zatlin-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zatlin/zatlin.js",
+  "scripts": {
+    "prebuild": "node data/bundle-data.js",
+    "build": "webpack --colors"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "copy-webpack-plugin": "^4.0.1",
+    "extract-text-webpack-plugin": "^3.0.0",
+    "file-loader": "^0.11.2",
+    "raw-loader": "^0.5.1",
+    "ts-loader": "^2.3.1",
+    "typescript": "^2.4.2",
+    "webpack": "^3.3.0"
+  }
+}

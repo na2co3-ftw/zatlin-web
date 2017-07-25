@@ -1,0 +1,1065 @@
+{
+  "name" : "S語根",
+  "data" : [
+    {
+      "equivalents" : ["既出の名詞を指示"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["疑問詞"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["新出の名詞を指示"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["関係詞"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["反転詞"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["代動詞"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["肯定詞"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["否定詞"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["all"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["some"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["あなた"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["私"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["最中"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["今"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["ここ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["事後"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["繰り返し"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["前"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["開始"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["完了"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["後"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["近い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["事前"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["遠い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["言う", "いう", "会話"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["良い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["人"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["向かう", "到達点"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["来る", "くる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["知る"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["たくさん"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["時", "回"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["欲しい", "望む"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["ある", "いる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["できる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["大きい", "おおきい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["食べる", "たべる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["どこ", "所"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["手", "て"],
+      "content" : "活動体の身体の一部で、掴む機能を有するもの。"
+    },
+    {
+      "equivalents" : ["見る", "みる"],
+      "content" : "何らかの機能により、視覚情報を得ること。"
+    },
+    {
+      "equivalents" : ["作る"],
+      "content" : "活動体が何かものを存在するようにすること。"
+    },
+    {
+      "equivalents" : ["合わせる"],
+      "content" : "複数のものが一つのものになること。"
+    },
+    {
+      "equivalents" : ["家", "建物"],
+      "content" : "道具の一つで、活動体が活動する空間を有するもの。"
+    },
+    {
+      "equivalents" : ["石","石", "いし"],
+      "content" : "具象物で、形が変化しにくい性質を持つもの。"
+    },
+    {
+      "equivalents" : ["分ける", "割る", "わる"],
+      "content" : "一つのものを複数の部分に分けること。"
+    },
+    {
+      "equivalents" : ["水", "みず", "液体全般"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["名前", "なまえ", "インスタンス識別子"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["与える", "あたえる", "あげる"],
+      "content" : "活動体が活動体にものを与える。"
+    },
+    {
+      "equivalents" : ["新しい", "あたらしい"],
+      "content" : "時間的に未来方向にあること。"
+    },
+    {
+      "equivalents" : ["女", "おんな"],
+      "content" : "性別の一つ。"
+    },
+    {
+      "equivalents" : ["感じる"],
+      "content" : "活動体が何らかの情報を取り入れること"
+    },
+    {
+      "equivalents" : ["同じ"],
+      "content" : "2つのものが、何らかの原則により、同じとみなされること。"
+    },
+    {
+      "equivalents" : ["使う"],
+      "content" : "道具がその機能を発揮する。"
+    },
+    {
+      "equivalents" : ["穴"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["群"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["開いている"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["終わる", "現象が終わる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["獣", "動物の一種"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["気体"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["親"],
+      "content" : "関係。ある活動体が同質の活動体を生み出したとき、生み出した側を指す。"
+    },
+    {
+      "equivalents" : ["上"],
+      "content" : "方向。重力に逆らう方向。"
+    },
+    {
+      "equivalents" : ["黒", "くろ"],
+      "content" : "色の一種。"
+    },
+    {
+      "equivalents" : ["植物"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["平たい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["棒"],
+      "content" : "変形しにくいもので、細長いもの。"
+    },
+    {
+      "equivalents" : ["中"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["叩く", "打つ", "うつ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["体"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["丸い", "まるい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["前"],
+      "content" : "方向。進行方向に従う方向。"
+    },
+    {
+      "equivalents" : ["暖かい", "あたたかい", "熱い", "あつい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["線", "糸"],
+      "content" : "細長いもので、変形が容易なもの。"
+    },
+    {
+      "equivalents" : ["色"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["面", "隣"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["悪い", "わるい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["持つ", "もつ"],
+      "content" : "活動体がものを自分の近くにあるようにし続けること。"
+    },
+    {
+      "equivalents" : ["頭", "あたま"],
+      "content" : "活動体の身体の一部で、考える機能を有するもの。"
+    },
+    {
+      "equivalents" : ["音"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["少し"],
+      "content" : "非可算な量が少ないこと。"
+    },
+    {
+      "equivalents" : ["狂った"],
+      "content" : "ある活動体が望む現象とは異なる現象が起こり、それが悪いと評価されること。"
+    },
+    {
+      "equivalents" : ["変わる"],
+      "content" : "あるものが別なものになること。"
+    },
+    {
+      "equivalents" : ["由来"],
+      "content" : "ものが過去にあった空間。"
+    },
+    {
+      "equivalents" : ["序数"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["太陽", "日", "ひ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["描く"],
+      "content" : "意味を持つ視覚的なものを作ること。"
+    },
+    {
+      "equivalents" : ["死ぬ", "しぬ", "殺す", "ころす"],
+      "content" : "活動体の機能を停止させること。"
+    },
+    {
+      "equivalents" : ["道", "みち"],
+      "content" : "移動の経絡。"
+    },
+    {
+      "equivalents" : ["愛する"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["実", "み", "果物", "くだもの"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["道具"],
+      "content" : "機能を有するもの。"
+    },
+    {
+      "equivalents" : ["男", "おとこ"],
+      "content" : "性別の一つ。"
+    },
+    {
+      "equivalents" : ["待つ"],
+      "content" : "空間的にある一点に存在し続けること。"
+    },
+    {
+      "equivalents" : ["聞く", "きく"],
+      "content" : "活動体が音声を取り入れること。"
+    },
+    {
+      "equivalents" : ["遊ぶ", "あそぶ", "楽しむ"],
+      "content" : "活動体が良いと評価する活動を実施すること。"
+    },
+    {
+      "equivalents" : ["性交する"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["戦う", "たたかう"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["寝る", "ねる"],
+      "content" : "活動体が一時的に活動を停止すること。"
+    },
+    {
+      "equivalents" : ["青い"],
+      "content" : "色の一種。"
+    },
+    {
+      "equivalents" : ["白", "しろ"],
+      "content" : "色の一種。"
+    },
+    {
+      "equivalents" : ["力"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["下"],
+      "content" : "方向。重力に従う方向。"
+    },
+    {
+      "equivalents" : ["赤", "あか"],
+      "content" : "色の一種。"
+    },
+    {
+      "equivalents" : ["鳥", "とり"],
+      "content" : "動物の一種。"
+    },
+    {
+      "equivalents" : ["奪う"],
+      "content" : "ある空間からものを移動させ、その空間にものがない状態にすること。"
+    },
+    {
+      "equivalents" : ["汚い", "きたない"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["布"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["口", "くち"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["黄色", "きいろ"],
+      "content" : "色の一種。"
+    },
+    {
+      "equivalents" : ["足", "あし"],
+      "content" : "活動体の身体の一部で、移動する機能を有するもの。靴を履いたら隠れる部分。"
+    },
+    {
+      "equivalents" : ["包", "箱"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["お金"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["山", "やま"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["表面", "皮"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["後ろ"],
+      "content" : "方向。進行方向と逆方向。"
+    },
+    {
+      "equivalents" : ["魚", "さかな"],
+      "content" : "動物の一種。"
+    },
+    {
+      "equivalents" : ["虫", "むし"],
+      "content" : "動物の一種。"
+    },
+    {
+      "equivalents" : ["寒い", "さむい", "涼しい", "すずしい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["粉", "こな"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["月", "つき"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["水平"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["爬虫類"],
+      "content" : "動物の一種。"
+    },
+    {
+      "equivalents" : ["甘い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["狩る", "かる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["市場"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["穀物"],
+      "content" : "食べ物の一種。"
+    },
+    {
+      "equivalents" : ["種類"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["部分"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["言葉"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["本当"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["起こる", "起きる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["動く"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["すぐに", "一瞬"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["触る"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["多分"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["すごく"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["もっと", "もう"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["よう", "ように"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["長い", "ながい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["小さい", "ちいさい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["犬", "いぬ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["虱", "しらみ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["木", "き"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["種", "たね"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["葉", "は"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["根", "ね"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["木皮", "こはだ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["皮", "かわ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["肉", "しし"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["血", "ち"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["骨", "ほね"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["脂", "あぶら"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["卵", "たまご"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["角", "つの"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["尻尾", "しっぽ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["羽", "はね"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["髪", "かみ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["耳", "みみ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["目", "め"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["鼻", "はな"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["歯", "は"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["舌", "した"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["爪", "つめ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["膝", "ひざ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["腹", "はら"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["首", "くび"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["胸", "むね"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["心", "こころ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["肝", "きも"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["飲む", "のむ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["噛む", "かむ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["泳ぐ", "およぐ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["飛ぶ", "とぶ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["歩く", "あるく"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["寝る", "横たわる", "ねる", "よこたわる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["座る", "すわる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["立つ", "たつ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["星", "ほし"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["雨", "あめ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["砂", "すな"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["土", "つち"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["雲", "くも"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["煙", "けむり"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["火", "ひ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["灰", "はい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["燃える", "もえる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["緑", "みどり"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["夜", "よる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["満ちた", "みちた"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["乾いた", "かわいた"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["他", "ほか"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["広い", "ひろい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["厚い", "あつい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["重い", "おもい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["短い", "みじかい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["狭い", "せまい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["細い", "ほそい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["軽い"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["子", "こ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["妻", "つま"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["夫", "おっと"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["母", "はは"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["父", "ちち"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["生き物", "いきもの"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["蛇", "へび"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["森", "もり"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["枝", "えだ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["花", "はな"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["草", "くさ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["縄", "なわ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["脚", "あし"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["翼", "つばさ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["腸", "はらわた"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["背", "せ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["吸う", "すう"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["吐く", "はく"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["吐く", "はく"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["吹く", "ふく"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["息する", "いきする"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["笑う", "わらう"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["思う", "おもう"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["嗅ぐ", "かぐ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["恐れる", "おそれる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["切る", "きる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["刺す", "さす"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["掻く", "かく"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["掘る", "ほる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["回る", "まわる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["落ちる", "おちる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["絞る", "しぼる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["擦る", "こする"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["洗う", "あらう"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["拭く", "ふく"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["引く", "ひく"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["押す", "おす"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["投げる", "なげる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["結ぶ", "むすぶ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["縫う", "ぬう"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["数える", "かぞえる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["歌う", "うたう"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["浮く", "うく"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["流れる", "ながれる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["凍る", "こおる"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["膨らむ", "ふくらむ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["川", "かわ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["湖", "みずうみ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["海", "うみ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["塩", "しお"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["塵", "ちり"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["霧", "きり"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["空", "そら"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["風", "かぜ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["雪", "ゆき"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["氷", "こおり"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["日", "ひ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["年", "とし"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["古い", "ふるい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["腐った", "くさった"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["真っ直ぐ", "まっすぐ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["鋭い", "するどい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["鈍い", "にぶい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["滑らか", "なめらか"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["濡れた", "ぬれた"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["正しい", "ただしい"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["右", "みぎ"],
+      "content" : null
+    },
+    {
+      "equivalents" : ["左", "ひだり"],
+      "content" : null
+    }
+  ]
+}
