@@ -18,13 +18,6 @@ module.exports = {
 				use: ExtractTextPlugin.extract({
 					use: "raw-loader"
 				})
-			},
-			{
-				test: /\.html$/,
-				loader: "file-loader",
-				query: {
-					name: "[name].[ext]"
-				}
 			}
 		]
 	},
